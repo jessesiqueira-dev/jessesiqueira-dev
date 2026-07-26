@@ -59,4 +59,4 @@ Minha experiência profissional anterior envolve ensino, pesquisa, comunicação
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jessé_Siqueira-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/jess%C3%A9-siqueira-78957b22/)
 
-[![E-mail](https://img.shields.io/badge/E--mail-Entre_em_contato-333333?style=flat&logo=gmail)](mailto:jessesiqueira.dev@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-Entre_em_contato-333333?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jessesiqueira.dev@gmail.com)
