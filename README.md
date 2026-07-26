@@ -55,20 +55,6 @@ Minha experiência profissional anterior envolve ensino, pesquisa, comunicação
 
 ---
 
-## Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=jessesiqueira-dev&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" />
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessesiqueira-dev&layout=compact&theme=transparent&hide_border=true&locale=pt-br" />
-
-</div>
-
-> As linguagens exibidas são calculadas com base nos repositórios públicos e não representam necessariamente meu nível de conhecimento.
-
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jessé_Siqueira-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/jess%C3%A9-siqueira-78957b22/)
