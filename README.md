@@ -6,7 +6,7 @@ Sou formado pelo programa de **Residência em TIC do Serratec** e atualmente cur
 
 Estou em transição de carreira para a área de tecnologia, desenvolvendo projetos práticos e aprimorando meus conhecimentos em desenvolvimento **frontend, backend e mobile**.
 
-Minha experiência profissional anterior envolve ensino, pesquisa, comunicação, organização, resolução de problemas e trabalho em equipe — habilidades que hoje aplico no desenvolvimento de software.
+Minha experiência profissional anterior envolve docência, pesquisa, comunicação, organização, resolução de problemas e trabalho em equipe — habilidades que hoje aplico no desenvolvimento de software.
 
 ---
 
@@ -23,7 +23,11 @@ Minha experiência profissional anterior envolve ensino, pesquisa, comunicação
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk)
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+  alt="Java"
+  width="35"
+/>
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-333333?style=flat&logo=springboot)
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=nodedotjs)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
@@ -57,6 +61,6 @@ Minha experiência profissional anterior envolve ensino, pesquisa, comunicação
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jessé_Siqueira-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/jess%C3%A9-siqueira-78957b22/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jessé_Siqueira-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jess%C3%A9-siqueira-78957b22/)
 
-[![E-mail](https://img.shields.io/badge/E--mail-Entre_em_contato-333333?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jessesiqueira.dev@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-Entre_em_contato-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jessesiqueira.dev@gmail.com)
