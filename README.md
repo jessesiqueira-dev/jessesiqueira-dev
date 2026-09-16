@@ -1,10 +1,12 @@
 # Olá, eu sou o Jessé Siqueira! 👋
 
-### Desenvolvedor Full Stack Jr
+### Desenvolvedor Full Stack Júnior | Node.js • React • TypeScript
 
-Sou formado pelo programa de **Residência em TIC do Serratec** e atualmente curso **Análise e Desenvolvimento de Sistemas na UniCesumar**.
+Desenvolvedor Full Stack com formação prática pela **Residência em TIC/Software do Serratec/SENAI** e atualmente cursando **Análise e Desenvolvimento de Sistemas na UniCesumar**.
 
-Estou em transição de carreira para a área de tecnologia, desenvolvendo projetos práticos e aprimorando meus conhecimentos em desenvolvimento **frontend, backend e mobile**.
+Tenho trabalhado principalmente com **Node.js, JavaScript, TypeScript, React.js **, além de experiência com **Java e Spring Boot**.
+
+Atualmente estou focado no desenvolvimento de aplicações web, APIs REST, integração entre front-end e back-end e boas práticas de desenvolvimento.
 
 Minha experiência profissional anterior envolve docência, pesquisa, comunicação, organização, resolução de problemas e trabalho em equipe — habilidades que hoje aplico no desenvolvimento de software.
 
