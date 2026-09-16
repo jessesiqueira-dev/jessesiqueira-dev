@@ -1,6 +1,6 @@
 # Olá, eu sou o Jessé Siqueira! 👋
 
-### Desenvolvedor Full Stack em formação
+### Desenvolvedor Full Stack Jr
 
 Sou formado pelo programa de **Residência em TIC do Serratec** e atualmente curso **Análise e Desenvolvimento de Sistemas na UniCesumar**.
 
@@ -48,14 +48,28 @@ Minha experiência profissional anterior envolve docência, pesquisa, comunicaç
 
 ---
 
-## Atualmente estudando
+## 📚 Atualmente estudando e desenvolvendo com
 
-- Desenvolvimento de aplicações com **React e TypeScript**
-- Desenvolvimento mobile com **React Native**
-- APIs REST com **Java, Spring Boot e Node.js**
-- Banco de dados relacionais
-- Arquitetura e organização de projetos
-- Boas práticas de desenvolvimento e versionamento
+- Node.js e desenvolvimento de APIs REST
+- React.js e TypeScript
+- PostgreSQL e SQL
+- Integração entre front-end e back-end
+- Autenticação e gerenciamento de sessão
+- Arquitetura e organização de aplicações
+- Java e Spring Boot
+- Boas práticas com Git e GitHub
+
+---
+## ⭐ Projetos em destaque
+
+### Task Manager
+Aplicação web para gerenciamento de tarefas desenvolvida com React e Vite.
+
+🔗 [Ver aplicação](https://task-manager-gamma-lyart-43.vercel.app/)  
+🔗 [Ver repositório](https://github.com/jessesiqueira-dev/task-manager)
+
+### FinTrack
+Aplicação de gestão financeira atualmente em desenvolvimento.
 
 ---
 
